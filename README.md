@@ -7,8 +7,6 @@ Desafio de projeto sobre Git/GitHub. Consiste em um compilado de informações a
 
 - O que é Git & GitHub
 
-  ​
-
 
 **Entendendo o funcionamento do Git**
 
